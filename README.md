@@ -1,4 +1,4 @@
-<img width="606" height="232" alt="image" src="https://github.com/user-attachments/assets/bc8f46f2-9b88-4520-b629-a10d30e2b50d" /># MEDAPP
+# MEDAPP
 
 Κατεβαζεις το zip
 
